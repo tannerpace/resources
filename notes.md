@@ -1,13 +1,9 @@
 ## generate nvmrc
 
-`code`
-node -v > .nvmrc
-`code`
+`node -v > .nvmrc`
 
 ---
 
 ## let nvm know about it
 
-`code`
-nvm use
-`code`
+`nvm use`
