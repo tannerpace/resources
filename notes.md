@@ -1,7 +1,13 @@
-## add config to tell nvm what version to use
+## generate nvmrc
 
+`code`
 node -v > .nvmrc
+`code`
 
 ---
 
-'code'
+## let nvm know about it
+
+`code`
+nvm use
+`code`
