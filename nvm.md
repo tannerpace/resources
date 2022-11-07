@@ -7,3 +7,7 @@
 ## let nvm know about it
 
 `nvm use`
+
+-- ## view path
+
+`echo $PATH`
