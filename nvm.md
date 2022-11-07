@@ -11,3 +11,6 @@
 -- ## view path
 
 `echo $PATH`
+
+##see proccess on port 
+`lsof -i :80`
