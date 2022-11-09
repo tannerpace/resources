@@ -18,7 +18,7 @@
 ### 16. `git clone`
 ### 17. `git reset --hard`
 >is used to reset the local repository to the state of the remote repository. This is useful when you have made changes to the local repository that you want to discard.
-#### 18. git remote update origin --prune
+#### 18. `git remote update origin --prune`
 >deletes all the remote-tracking references that no longer exist on the remote. This is useful when you have deleted a branch on the remote and want to remove the corresponding reference locally.
 #### 19. `git reset --hard origin/master`
 >this command will reset your local branch to match the remote branch. This is useful when you have made changes to the local repository that you want to discard.
