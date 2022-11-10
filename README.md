@@ -199,27 +199,24 @@ this command will install react-router-dom.
 
 #1 `npm install react-query` or `yarn add react-query`
 
-this command will install react-query.
-
-#2 `npm install axios` or `yarn add axios`
-
-this command will install axios.
-
-#3 `npm install react-query-devtools` or `yarn add react-query-devtools`
-
-this command will install react-query-devtools.
-
-#4 `npm install react-query-devtools` or `yarn add react-query-devtools`
-
-this command will install react-query-devtools.
+> this command will install react-query.
+> #2 `npm install axios` or `yarn add axios`
+> this command will install axios.
+> #3 `npm install react-query-devtools` or `yarn add react-query-devtools`
+> this command will install react-query-devtools.
+> #4 `npm install react-query-devtools` or `yarn add react-query-devtools`
+> this command will install react-query-devtools.
 
 # React Hook Form
 
 #1 `npm install react-hook-form` or `yarn add react-hook-form`
 
-this command will install react-hook-form.
+> this command will install react-hook-form.
+> #2 `npm install @hookform/resolvers` or `yarn add @hookform/resolvers`
+> this command will install @hookform/resolvers.
 
-#2 `npm install @hookform/resolvers` or `yarn add @hookform/resolvers`
+# React Pagination
 
+#1 `npm install react-paginate` or `yarn add react-paginate`
 
-
+> this command will install react-paginate.
