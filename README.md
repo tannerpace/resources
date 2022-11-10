@@ -221,8 +221,5 @@ this command will install react-hook-form.
 
 #2 `npm install @hookform/resolvers` or `yarn add @hookform/resolvers`
 
-this command will install @hookform/resolvers.
 
-#3 `npm install yup` or `yarn add yup`
 
-this command will install yup.
