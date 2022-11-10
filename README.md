@@ -1,4 +1,4 @@
-# Commands to run in the terminal to help work with a team
+# Commands 
 
 ## Git
 
