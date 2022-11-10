@@ -1,10 +1,12 @@
-# Commands 
+# Commands
 
 ## Git
 
 ### 1. `git add` .
 
-### 2.`code` `git commit -m "message` `code`
+### 2.
+
+    `code` `git commit -m "message` `code`
 
 ### 3. `git push`
 
