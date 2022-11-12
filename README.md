@@ -6,7 +6,9 @@
 
 ### 2.
 
-    `code` `git commit -m "message` `code`
+    `code`
+    `git commit -m "message` 
+    `code`
 
 ### 3. `git push`
 
