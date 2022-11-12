@@ -5,10 +5,11 @@
 ### 1. `git add` .
 
 ### 2.
-
+```markdown
     `code`
-    `git commit -m "message` 
+    `git commit -m "message"` 
     `code`
+    ```
 
 ### 3. `git push`
 
