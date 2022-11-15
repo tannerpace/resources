@@ -172,56 +172,9 @@ this command will install the latest version of node.
 #5 `nvm install --lts --reinstall-packages-from=system`
 this command will install the latest version of node and reinstall all the packages from the system.
 
-# React
+# mysql
+You can update root password anytime from MySQL shell.
+$ mysql -uroot -p
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewStrongP@ssw0d!';
 
-#1 `npx create-react-app my-app`
-this command will create a new react app.
 
-#2 `npm start`
-this command will start the react app.
-
-#3 `npm run build`
-
-this command will build the react app for production to the build folder.
-
-#4 `npm test`
-
-this command will launch the test runner in the interactive watch mode.
-
-#5 `npm run eject`
-
-this command will remove the single build dependency from your project.
-
-#6 `npm run build` fails to minify
-
-this command will find out why.
-
-#7 `npm install --save react-router-dom`
-
-this command will install react-router-dom.
-
-# React Library's
-
-#1 `npm install react-query` or `yarn add react-query`
-
-> this command will install react-query.
-> #2 `npm install axios` or `yarn add axios`
-> this command will install axios.
-> #3 `npm install react-query-devtools` or `yarn add react-query-devtools`
-> this command will install react-query-devtools.
-> #4 `npm install react-query-devtools` or `yarn add react-query-devtools`
-> this command will install react-query-devtools.
-
-# React Hook Form
-
-#1 `npm install react-hook-form` or `yarn add react-hook-form`
-
-> this command will install react-hook-form.
-> #2 `npm install @hookform/resolvers` or `yarn add @hookform/resolvers`
-> this command will install @hookform/resolvers.
-
-# React Pagination
-
-#1 `npm install react-paginate` or `yarn add react-paginate`
-
-> this command will install react-paginate.
