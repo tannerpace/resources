@@ -177,4 +177,8 @@ You can update root password anytime from MySQL shell.
 $ mysql -uroot -p
 mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewStrongP@ssw0d!';
 
+login with root user 
+mysql -u root -p
+
+
 
