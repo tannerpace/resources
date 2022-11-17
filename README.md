@@ -181,5 +181,5 @@ login with root user
 mysql -u root -p
 
 ###General
-sudo lsof -i :3000
+lsof -i :5001.  -kill proccess on a port
 
