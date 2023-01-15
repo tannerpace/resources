@@ -191,8 +191,11 @@ define a security group that will accept all https traffic on the port your ec2 
 define a security group that will accept traffic from the alb security group
 create an application load balancer
 confirm that its target group is the one with the ec2 set up any health checks as needed
-confirm that alb has a listner on the same port as ec2 and that it is https
-regester a domain with route 53 this will be needed to get a ssl certificate 
+health checks should be on http port 80
+
+----no this looks wrong-----confirm that alb has a listner on the same port as ec2 and that it is https
+alb listener should be on https and port 443---- think this was my mistake
+regester a domain with route  53 this will be needed to get a ssl certificate 
 point the domain at the alb
 add the ssl for domain to the alb
 
