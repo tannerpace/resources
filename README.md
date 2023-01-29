@@ -184,6 +184,21 @@ mysql -u root -p
 lsof -i :5001.  -kill proccess on a port
 
 
+#github credintal helper cmds
+  git status
+  gh auth login
+  sudo snap install gh
+  gh auth login
+  git pull
+  gh auth login
+  git config --global user.email
+  git config --global myemail@gmail.com
+  git config --global user.email myemail@gmail.com
+  
+
+
+
+
 steps to set up ssl
 assuming your ec2 is up and responding to http on /
 first create a target group this should connect to the ec/
