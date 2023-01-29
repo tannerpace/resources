@@ -1,15 +1,14 @@
-# Commands
+# Helpful Commands 
 
 ## Git
 
-### 1. `git add` .
+###  
 
-### 2.
-```markdown
-    `code`
-    `git commit -m "message"` 
-    `code`
-    ```
+```
+`git add` .
+```
+
+### 2.```git commit -m "message"``` .
 
 ### 3. `git push`
 
