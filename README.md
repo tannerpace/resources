@@ -15,27 +15,57 @@
 
 ### 3. 
 ```
-`git push`
+git push
 ```
-### 4. `git pull origin master`
+### 4. 
+```
+git pull origin master
+```
 
-### 5.`git status`
+### 5.
+```
+git status
+```
 
-### 6. `git log`
+### 6. 
+```
+git log
+```
 
-### 7. `git checkout -b branch_name`
+### 7. 
+```
+git checkout -b branch_name
+```
 
-### 8. `git checkout branch_name`
+### 8. 
+```
+git checkout branch_name
+```
 
-### 9. `git branch`
+### 9. 
+```
+git branch
+```
 
-### 10. `git branch -d branch_name`
+### 10. 
+```
+git branch -d branch_name
+```
 
-### 11. `git merge branch_name`
+### 11. 
+```
+git merge branch_name
+```
 
-### 12. `git remote add origin`
+### 12. 
+```
+git remote add origin
+```
 
-### 13. `git remote -v`
+### 13. 
+```
+git remote -v
+```
 
 ### 14. `git remote rm origin`
 
