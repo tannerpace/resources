@@ -1,5 +1,22 @@
 # Helpful Commands 
 
+## PM2
+```
+pm2 restart index 
+```
+--restarts server useful after pulling in changes from git
+
+
+
+
+
+
+
+
+
+
+
+
 ## Git
 
 ###  
